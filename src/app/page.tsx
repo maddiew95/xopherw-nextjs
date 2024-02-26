@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import me from '../../public/me.jpg';
 import github from '../../public/icons/github.png';
-import linkedIn from '../../public/icons/linkedIn.png';
+import linkedIn from '../../public/icons/linkedin.png';
 import email from '../../public/icons/email.png';
 import medium from '../../public/icons/medium.png';
 

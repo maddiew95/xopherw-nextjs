@@ -28,7 +28,7 @@ export default function Home() {
         </p>
         <p>
         I have always been passionate about technology and programming. In my free time I like to work on my personal coding project mostly in 
-        Ptyhon, but I am open to almost many programming languages. In this site, it is mainly developed in ReactJS using Typescript.
+        Python, but I am open to almost many programming languages. In this site, it is mainly developed in ReactJS using Typescript.
         </p>
         <p>
         I also love learning new stuff and listening to audiobooks. Anyway, I hope you enjoy my website, you may reach me in one of the medium below!

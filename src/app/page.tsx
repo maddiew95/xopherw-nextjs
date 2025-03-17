@@ -18,7 +18,7 @@ export default function Home() {
 
       <div className="preWrap w-[1000px]">
         <p>
-          Hello world, welcome to my personal website! My name is Christopher Wong (She/They). I am from Malaysia born in Kota Kinabalu, Sabah.
+          Hello world, welcome to my personal website! My name is Christopher "Maddie" Wong (She/Her). I am from Malaysia born in Kota Kinabalu, Sabah.
           I am currently doing my PhD in the University of Canberra, Australia.  
         </p>
         <p>

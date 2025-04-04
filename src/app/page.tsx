@@ -36,7 +36,7 @@ export default function Home() {
       </div>
 
       <div className="mt-[10px] mediums flex">
-        <Link href="https://github.com/xopherw">
+        <Link href="https://github.com/maddiewong95">
           
             <Image src={github} alt="github" />
           

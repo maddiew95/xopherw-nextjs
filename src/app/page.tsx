@@ -42,7 +42,7 @@ export default function Home() {
           
         </Link>
         
-        <Link href="https://www.linkedin.com/in/chriswwl95/">
+        <Link href="https://www.linkedin.com/in/maddiew95/">
           
             <Image src={linkedIn} alt="LinkedIn" />
           
